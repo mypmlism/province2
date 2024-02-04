@@ -1,0 +1,26 @@
+body{
+    background-color: #fefae0;
+}
+
+h2{
+    color: #132a1a ;
+    font-size: 34px;
+}
+
+h1{
+    font-size: 36px;
+    color: #1e0f75;
+}
+
+h3{
+    background-color: yellow;
+}
+
+.long-text{
+    font-size: 40px;
+}
+
+ul{
+    color: #3a1b6b;
+    font-size: 20px;
+}
